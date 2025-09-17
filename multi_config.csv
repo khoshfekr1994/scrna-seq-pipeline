@@ -6,7 +6,3 @@ sample,sample_name_in_fastq_files
 [libraries]
 fastq_id,fastqs,feature_types
 sample_name,/path/to/fastq/files,Gene Expression
-
-[samples]
-sample_id,description
-sample_name,Description of your sample
