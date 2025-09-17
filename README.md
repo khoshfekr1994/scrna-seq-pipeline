@@ -165,9 +165,11 @@ resolution = 0.5       # Clustering resolution
 
 ## Author
 
-Hamid Khoshfekr Rudsari, PhD
+**Hamid Khoshfekr Rudsari, PhD**
 contact: 
+
 khoshfekr1994@gmail.com
+
 hkhoshfekr@mdanderson.org
 
 ## License
